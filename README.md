@@ -1,2 +1,2 @@
 # classProject
-![alt text](/home/kabir/Desktop/Class00/html_css/01_Acme)
+![alt text](https://github.com/KabirAbdulkareem/classProject/blob/main/ui.png?raw=true)
